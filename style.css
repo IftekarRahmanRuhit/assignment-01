@@ -344,6 +344,62 @@ body{
     font-size: 16px;
     font-weight: 400;
     color: rgb(13, 19, 33);
-    margin-bottom: 48px;
 }
 /* My Inspiration section End*/
+
+.video-section-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 563px;
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid rgba(13, 19, 33, 0.2);;
+    border-radius: 17px;
+    margin-top: 48px;
+}
+
+/* video-section-start */
+.video-content{
+    height: 550px;
+    width: 95%;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+#iframe{
+    margin: 0 auto;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+/* video-section-end  */
+
+/* my current target section start */
+
+.my-Current-Target-section-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 113px;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.my-Current-Target-section-container h3{
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 24px;
+    color: rgb(13, 19, 33);   
+}
+.my-Current-Target-section-container p{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(13, 19, 33);
+}
+.my-Current-Target-section-container h6{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(13, 19, 33);
+}
+
+/* my current target section End  */
