@@ -400,6 +400,102 @@ body{
     font-size: 16px;
     font-weight: 400;
     color: rgb(13, 19, 33);
+    margin-top: 8px;
 }
 
 /* my current target section End  */
+
+/* HTML-CSS-JS section-Start   */
+
+.HTML-CSS-JS-section-container{
+    width: 90%;
+    margin: 0 auto;
+    height: 320px;
+    display: flex;
+    flex-direction: row;
+    /* border: 2px solid tomato; */
+    margin-top: 48px;
+    justify-content: space-evenly;
+}
+.html-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 364px;
+    height: 299px;
+    /* border: 2px solid greenyellow; */
+    background-color: rgba(255, 76, 30, 0.05);
+    border-radius: 20px;
+    padding-left: 25px;
+
+}
+.html-content img{
+    width: 40px;
+    height: 45px;
+}
+.html-content p{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(13, 19, 33);
+    margin-top: 15px;
+}
+.html-content a{
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(13, 19, 33);
+    margin-top: 24px;
+}
+.css-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 364px;
+    height: 299px;
+    background-color: rgba(0, 76, 232, 0.05);
+    border-radius: 20px;
+    padding-left: 25px;
+}
+.css-content p{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(13, 19, 33);
+    margin-top: 15px;
+}
+.css-content a{
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(13, 19, 33);
+    margin-top: 24px;
+}
+.css-content img{
+    width: 40px;
+    height: 45px;
+}
+.js-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 364px;
+    height: 299px;
+    background-color: rgba(255, 223, 0, 0.05);
+    border-radius: 20px;
+    padding-left: 25px;
+}
+.js-content p{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(13, 19, 33);
+    margin-top: 15px;
+}
+.js-content a{
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(13, 19, 33);
+    margin-top: 24px;
+}
+.js-content img{
+    width: 40px;
+    height: 45px;
+}
+
+/* HTML-CSS-JS section-Start   */
