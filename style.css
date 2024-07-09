@@ -112,3 +112,105 @@ body{
     color: rgb(197, 70, 184);
 }
 /* banner section End */
+
+.web-development-section-container{
+    height: 1395px;
+    width: 90%;
+    margin: 0 auto;
+    border: 2px solid tomato;
+    margin-top: 74px;
+    background-color: rgba(13, 19, 33, 0.02);
+}
+.web-development-section-content-continer{
+    height: 1235px;
+    width: 90%;
+    margin: 0 auto;
+    border: 2px solid teal;
+    margin-top: 60px;
+    background-color: rgba(13, 19, 33, 0.02);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.web-development{
+    height: 115px;
+    width: 100%;
+    /* border: 2px solid rgb(13, 19, 33); */
+}
+.web-development{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.web-development h3{
+    font-size: 32px;
+    font-weight: 800;
+    color: rgb(13, 19, 33);
+    margin-bottom: 24px;
+}
+.web-development p{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(13, 19, 33);
+}
+.change-the-world-section-container{
+    width: 100%;
+    height: 330px;
+    border: 2px solid violet;
+}
+.change-the-world-section-content{
+    width: 90%;
+    height: 240px;
+    margin: 0 auto;
+    margin-top: 48px;
+    /* border: 2px solid blue; */
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.464);
+}
+.text-01{
+    width: 477px;
+    height: 220px;
+    margin-left: 50px;
+    margin-top: 20px;
+    /* border: 2px solid black; */
+}
+.text-01 h3{
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 16px;
+    color: rgba(13, 19, 33, 0.7);  
+}
+.text-01 p{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 32px;
+    color: rgb(13, 19, 33);
+}
+.learn-more-btn{
+    width: 150px;
+    height: 48px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(13, 19, 33);
+    background: rgba(13, 19, 33, 0.267);
+    border-radius: 9px;
+    padding: 5px;
+    cursor: pointer;
+}
+.learn-more-btn:hover{
+    color: brown;
+    background: wheat;
+}
+.change-the-world-section-image{
+    width: 259.56px;
+    height: 217.01px;
+    margin-top: 10px;
+/* border: 2px solid gray; */
+}
+.change-the-world-section-image img{
+    width: 100%;
+    height: 100%;
+}
