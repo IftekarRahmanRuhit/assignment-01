@@ -445,6 +445,9 @@ body{
     color: rgb(13, 19, 33);
     margin-top: 24px;
 }
+.html-content a:hover{
+    color: rgba(214, 7, 38, 0.834);
+}
 .css-content{
     display: flex;
     flex-direction: column;
@@ -466,6 +469,9 @@ body{
     font-weight: 700;
     color: rgb(13, 19, 33);
     margin-top: 24px;
+}
+.css-content a:hover{
+    color: rgba(214, 7, 38, 0.834);
 }
 .css-content img{
     width: 40px;
@@ -492,6 +498,9 @@ body{
     font-weight: 700;
     color: rgb(13, 19, 33);
     margin-top: 24px;
+}
+.js-content a:hover{
+    color: rgba(214, 7, 38, 0.834);
 }
 .js-content img{
     width: 40px;
@@ -530,3 +539,179 @@ body{
 }
 
 /* My next target section End  */
+
+/* React section start  */
+
+.react-section-container{
+    width: 85%;
+    margin: 0 auto;
+    height: 220px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 48px;
+    padding-top: 40px;
+    border-radius: 20px;
+
+}
+.react-image{
+    width: 95px;
+    height: 84px;
+    /* border: 2px solid rgb(197, 70, 184); */
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.react-image img{
+    width: 100%;
+    height: 100%;
+}
+.react-content{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    height: 139px;
+    /* border: 1px solid seagreen; */
+    padding:10px;
+    padding-left: 10px;
+    margin-right: 70px;
+}
+.react-content h3{
+    font-weight: 800;
+    font-size: 24px;
+    color: rgb(13, 19, 33);
+}
+.react-content p{
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 8px;
+    color: rgb(13, 19, 33);
+}
+.react-content a{
+    font-weight: 700;
+    font-size: 16px;
+    color: rgb(13, 19, 33);
+    margin-top: 24px;
+    
+}
+.react-content a:hover{
+    color: rgba(214, 7, 38, 0.834);
+}
+/* React section end  */
+
+/* nodejs section start  */
+
+.nodejs-section-container{
+    width: 85%;
+    margin: 0 auto;
+    height: 220px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 24px;
+    padding-top: 40px;
+    border-radius: 20px;
+
+}
+.nodejs-image{
+    width: 95px;
+    height: 84px;
+    /* border: 2px solid rgb(197, 70, 184); */
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.nodejs-image img{
+    width: 100%;
+    height: 100%;
+}
+.nodejs-content{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    height: 139px;
+    /* border: 1px solid seagreen; */
+    padding:10px;
+    padding-left: 10px;
+    margin-right: 70px;
+}
+.nodejs-content h3{
+    font-weight: 800;
+    font-size: 24px;
+    color: rgb(13, 19, 33);
+}
+.nodejs-content p{
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 8px;
+    color: rgb(13, 19, 33);
+}
+.nodejs-content a{
+    font-weight: 700;
+    font-size: 16px;
+    color: rgb(13, 19, 33);
+    margin-top: 24px;
+    
+}
+.nodejs-content a:hover{
+    color: rgba(214, 7, 38, 0.834);
+}
+
+/* nodejs section end  */
+
+/* MongoDB section start  */
+.mongodb-section-container{
+    width: 85%;
+    margin: 0 auto;
+    height: 220px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 24px;
+    padding-top: 40px;
+    border-radius: 20px;
+
+}
+.mongodb-image{
+    width: 95px;
+    height: 84px;
+    /* border: 2px solid rgb(197, 70, 184); */
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.mongodb-image img{
+    width: 100%;
+    height: 100%;
+}
+.mongodb-content{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    height: 139px;
+    /* border: 1px solid seagreen; */
+    padding:10px;
+    padding-left: 10px;
+    margin-right: 70px;
+}
+.mongodb-content h3{
+    font-weight: 800;
+    font-size: 24px;
+    color: rgb(13, 19, 33);
+}
+.mongodb-content p{
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 8px;
+    color: rgb(13, 19, 33);
+}
+.mongodb-content a{
+    font-weight: 700;
+    font-size: 16px;
+    color: rgb(13, 19, 33);
+    margin-top: 24px;
+    
+}
+.mongodb-content a:hover{
+    color: rgba(214, 7, 38, 0.834);
+}
