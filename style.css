@@ -43,7 +43,7 @@ body{
 }
 #download-resume-btn:hover{
     color: rgba(170, 246, 19, 0.97);
-    background-color: rgb(74, 9, 9);
+    background-color: rgba(74, 9, 9, 0.772);
 }
 
 /* Header section End  */
